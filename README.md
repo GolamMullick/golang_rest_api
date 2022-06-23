@@ -1,1 +1,1 @@
-# golang_rest_api
+# Learning golang
